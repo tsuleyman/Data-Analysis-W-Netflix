@@ -1,2 +1,2 @@
 # Data Analysis W Netflix
- wwww
+ Analysis with IMDB scores of Netflix movies
